@@ -1,0 +1,18 @@
+# Java compiled files
+*.class
+
+# Local configuration and passwords
+.env
+config.properties
+
+# Logs
+*.log
+
+# MySQL Workbench files
+*.mwb
+
+# Build files
+target/
+
+# Local MySQL Workbench session
+MySQL Local.session.sql
